@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "baileys": "npm:baileys-mod",
+    "@dark-yasiya/baileys": "1.0.7",
     "@xaviabot/fb-downloader": "1.0.14",
     "darksadas-yt-pornhub-scrape": "latest",
     "@dark-yasiya/scrap": "1.0.1",
@@ -17,7 +17,7 @@
     "node-fetch": "^2.6.1",
     "dotenv": "^16.4.5",
     "pino": "^8.17.0",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.12",
     "form-data": "^4.0.0",
     "fs": "^0.0.1-security",
     "@octokit/rest": "^20.0.2",
